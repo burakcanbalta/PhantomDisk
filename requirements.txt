@@ -1,0 +1,6 @@
+flask
+psutil
+cryptography
+pandas
+scikit-learn
+opencv-python

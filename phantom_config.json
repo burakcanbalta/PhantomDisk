@@ -1,0 +1,18 @@
+{
+    "ram_size": "512M",
+    "mount_point": "/mnt/phantomdisk",
+    "shell_log": "phantom_shell.log",
+    "pcap_file": "capture.pcap",
+    "report_file": "phantom_report.pdf",
+    "reverse_host": "127.0.0.1",
+    "reverse_port": 4444,
+    "backup_interval": 300,
+    "ai_threshold": {
+        "suspicious": 50,
+        "attack": 75
+    },
+    "safevault_path": "/tmp/phantom_vault",
+    "mutation_prefix": "pmod_",
+    "ghostlogin_log": "ghostlogin.log",
+    "c2_port": 8989
+}
