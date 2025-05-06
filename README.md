@@ -117,7 +117,6 @@ Kamera açıldığında, ekran yerine sahte bir güvenlik paneli gösterir. Arka
 
 | Saha | Amaç |
 |------|------|
-| TEKNOFEST | RAM-only APT ajan mimarisi olarak 1.lik adayıdır |
 | Savunma Sanayii | İz bırakmayan eğitim/demo/karantina ortamı |
 | Siber Güvenlik Akademileri | Öğrencilere iz bırakmayan sistem analizi eğitimi |
 | Kurum içi Red Team/SOC | Gerçek saldırı simülasyonu ve farkındalık oluşturma |
