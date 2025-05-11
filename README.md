@@ -2,7 +2,7 @@
 # 🧠 PhantomDisk | RAM-Only Stealth Operating Layer
 **Geliştirici:** burakcanbalta  
 **Yıl:** 2025  
-**Kategori:** Red Team, RAM-Based OS Layer, AI-Driven Defense, TEKNOFEST APT Proje
+**Kategori:** Red Team, RAM-Based OS Layer, AI-Driven Defense
 
 ---
 
